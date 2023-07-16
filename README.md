@@ -2,7 +2,7 @@
 
 </hr>
 <div align="center">
-  <h3>Hi, I'am Sourabh Mandal🖐</p> </h3>
+  <h3>Hi, I am Sourabh Mandal🖐</p> </h3>
   <a href="https://git.io/typing-svg"><img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29F249&width=435&lines=PASSIONATE+FULL+STACK+WEB+DEVELOPER;LEARNING+DESIGNING+;AND+DEVELOPMENT.."
       alt="Typing SVG" /></a>
@@ -30,7 +30,7 @@
   <a href="https://github.com/Sourabh-2101" target="_blank">
     <img
       src="https://img.shields.io/static/v1?message=Portfolio&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge"
-      height="35" alt="patreon logo" />
+      height="35" alt="Patreon logo" />
   </a>
   <br />
 </div>
@@ -116,7 +116,7 @@
     </a>
     &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"
-      alt="vs code logo" />
+      alt=" vs code logo" />
     &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"
       alt="npm logo" />

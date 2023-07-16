@@ -13,7 +13,7 @@
 </div>
 <h2 align='center'> Connect with me ⬇</h2>
 <div  style="display:flex; gap:20px" align="center">
-  <a  href="mailto:sourabhmandal008@gmail.com" target="_blank">
+  <a  href="mailto:Sourabhmandal008@gmail.com" target="_blank">
     <img
       src=https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png?fingerprint=c2eaf4aae389c3f885e97081bb197b97
       alt=github style="height: 30px;" />
